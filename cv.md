@@ -35,17 +35,22 @@ Certification: C_TFIN52_64_1 - SAP Certified Application Associate - Financial A
 •	AC 210 – New General Ledger
 •	AC 110 – SAP Accounting powered by SAP HANA
 
-**Core competences:**	SAP FI Accounts Payable (FI-AP), SAP FI Accounts Receivable (FI-AR), Asset Accounting (FI-AA), Bank Accounting (FI-BL), General Ledger Accounting (FI-GL), Russian localization specifics, integration aspects with FI/CO, integration aspects with FI/SD, FI/MM
+## Core competences:
+	SAP FI Accounts Payable (FI-AP), SAP FI Accounts Receivable (FI-AR), Asset Accounting (FI-AA), Bank Accounting (FI-BL), General Ledger Accounting (FI-GL), Russian localization specifics, integration aspects with FI/CO, integration aspects with FI/SD, FI/MM
 	
-**Industry experience:** Glass production, Oil & Gas, Construction, Automotive, Heating equipment, Pharmaceuticals, GameDev.
+## Industry experience:
+ Glass production, Oil & Gas, Construction, Automotive, Heating equipment, Pharmaceuticals, GameDev.
 
-**Technical knowledge:** 	SAP Implementation (FI, FI-AA, FI-AP, FI-AR, FI-BL, FI-GL, FI-SL),ABAP programming (FI Substitutions and Validations, Open FI, BADI, Customer Exits (CMOD); SAP Query, Report Painter/Writer), LSMW, MS Office, Jira, Confluence, and Outlook.
+## Technical knowledge:
+ 	SAP Implementation (FI, FI-AA, FI-AP, FI-AR, FI-BL, FI-GL, FI-SL),ABAP programming (FI Substitutions and Validations, Open FI, BADI, Customer Exits (CMOD); SAP Query, Report Painter/Writer), LSMW, MS Office, Jira, Confluence, and Outlook.
 
-Projects
-Customer:	Roga&Kopyta LLC
-Role: 	SAP FI/CO Consultant
-Industry:	GameDev
-Period:	01.2020– current time
+## Projects:
+
+**Customer:**	Roga&Kopyta LLC
+**Role:** 	SAP FI/CO Consultant
+**Industry:**	GameDev
+**Period:**	01.2020– current time
+
 	Designing SAP solution in the FICO modules of ECC 6 and Central finance.
 	Business Specification preparation according to SAP template model of the company.
 	User requirements gathering.
@@ -55,10 +60,12 @@ Period:	01.2020– current time
 	Performing tests, training, and UAT.
 
 
-Customer:	Aibolit
-Role: 	Consultant FI
-Industry:	Pharmaceuticals
-Period:	07.2019 – 12.2019
+
+**Customer:**	Aibolit
+**Role:** 	Consultant FI
+**Industry:**	Pharmaceuticals
+**Period:**	07.2019 – 12.2019
+
 	Implementation of a standard Profit Tax solution based on FI-SL:
 - Setting up data collection hierarchy;
 - Gathering of requirements;

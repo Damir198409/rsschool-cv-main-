@@ -5,11 +5,12 @@ Area:	**Finance**
 
 Know-how level:	**Senior consultant SAP FI**
 
-_Education_:	Accounting, analysis, audit (Kazan (Volga) federal university (Institute of economy and finance))
+**_Education_:**	Accounting, analysis, audit (Kazan (Volga) federal university (Institute of economy and finance))
 	            Economist manager (Almetyevsk state oil institute)
               
-Languages:	Russian (native), English (fluent)
-Work experience: 	since 2007, consultant since 2008
+**_Languages:_**	Russian (native), English (fluent)
+
+**_Work experience:_** 	since 2007, consultant since 2008
 
 ## Contacts:
 _Mob_: +357 97789899

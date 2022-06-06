@@ -31,13 +31,13 @@ _Implementation of SAP (FI modules):_ survey, conceptual design, configuration, 
 Strong analytical skills.
 
 _Certification:_
-  - C_TFIN52_64_1 - SAP Certified Application Associate - Financial Accounting with SAP ERP 6.0 EHP4 (2011),
-  - Key Technical Topics in a System Conversion to SAP S/4HANA (s4h14) (2020), 
-  - Migrating Your Business Data to SAP S/4HANA – New Implementation Scenario (s4h16) (2020), 
-  - Guide Your SAP S/4HANA Project to Success(s4h19) (2020), 
-  - Key Functional Topics in a System Conversion to SAP S/4HANA(s4h15) (2020),
-  - Intelligent Spend Management Using SAP Concur (2021)
-  - Python for beginners (2022)
+- C_TFIN52_64_1 - SAP Certified Application Associate - Financial Accounting with SAP ERP 6.0 EHP4 (2011),
+- Key Technical Topics in a System Conversion to SAP S/4HANA (s4h14) (2020), 
+- Migrating Your Business Data to SAP S/4HANA – New Implementation Scenario (s4h16) (2020), 
+- Guide Your SAP S/4HANA Project to Success(s4h19) (2020), 
+- Key Functional Topics in a System Conversion to SAP S/4HANA(s4h15) (2020),
+- Intelligent Spend Management Using SAP Concur (2021)
+- Python for beginners (2022)
 
 ## SAP training:
 •	AC 201/202 – Settings of finance of II: Periodic works and special operations. SAP of the CIS
